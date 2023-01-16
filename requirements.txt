@@ -1,0 +1,7 @@
+# Benötigte Pakete
+httpx
+decorest
+typing_extensions
+
+# Formatierung
+yapf
